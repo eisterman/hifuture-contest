@@ -1,0 +1,6 @@
+[package]
+name = "hifuture-contest"
+version = "0.1.0"
+authors = ["Federico Pasqua <federico.pasqua.96@gmail.com>"]
+
+[dependencies]
